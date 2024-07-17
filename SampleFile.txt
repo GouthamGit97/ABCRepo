@@ -2,4 +2,4 @@ Hello World! This is an DevOps Ocean
 
 Happy Learning and See you:)
 
-This file belongs to main branch.
+Conflict lines removed. Have a Good day.
